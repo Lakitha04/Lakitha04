@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/Typescript-0072b1?style=for-the-badge&logo=Typescript&logoColor=white)
 ![L](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-833ab4?style=for-the-badge&logo=css3&logoColor=white)
+[![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)](#)
 ![](https://img.shields.io/badge/Java-db4437?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-6f2da8?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-323232?style=for-the-badge&logo=mysql&logoColor=white)
