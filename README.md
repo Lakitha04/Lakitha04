@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <div align="center">
 
 # Lakitha Lokukaluge
@@ -53,6 +53,17 @@
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <br>
+<br>
+<br>
+
+### Github Stats
+
+![](https://streak-stats.demolab.com?user=GokulAbisheak&theme=transparent&hide_border=true&mode=weekly)
+
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=GokulAbisheak&show_icons=true&theme=transparent&hide_border=true&text_color=2f80ed&icon_color=2f80ed&hide_title=true)
+
 <br>
 <br>
 
