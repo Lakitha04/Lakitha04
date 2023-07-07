@@ -44,6 +44,7 @@
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 <br>
+
 **Tools and Technologies**
 <br>
 
