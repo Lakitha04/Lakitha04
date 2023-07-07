@@ -3,12 +3,13 @@
 
 # Lakitha Lokukaluge
 
-👋 Hey! My name is Lakitha lokukaluge, Information technology undergraduate at Sri Lankan Institute of Information Technology. I like to learn new techologies and adapt to it. Currently I'm learning about Cloud Services. Looking forward to contribute in community projects
+👋 Hey! My name is Lakitha lokukaluge, Information technology undergraduate at Sri Lankan Institute of Information Technology.
+<p align="center">I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
 <br>
 
 ![](https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakitha-lokukaluge-2b5754215)
 ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/lakiii04)
-
 ![](https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=lakithadilshan08@gmail.com)
 
 
@@ -59,11 +60,20 @@
 
 ### Github Stats
 
-![](https://streak-stats.demolab.com?user=GokulAbisheak&theme=transparent&hide_border=true&mode=weekly)
+![](https://streak-stats.demolab.com?user=Lakitha04&theme=transparent&hide_border=true&mode=weekly)
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=GokulAbisheak&show_icons=true&theme=transparent&hide_border=true&text_color=2f80ed&icon_color=2f80ed&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=Lakitha04&layout=donut&theme=transparent&hide_border=true&text_color=2f80ed&hide_title=true)
+
+<br>
+<br>
+
+### Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Lakitha04&layout=donut&theme=transparent&hide_border=true&text_color=2f80ed&hide_title=true)
+
+
 
 <br>
 <br>
